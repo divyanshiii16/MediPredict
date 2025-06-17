@@ -96,10 +96,10 @@ streamlit run Medipredict.py
 
 ## 🙋‍♂️ Author
 
-**Vinay Patel**  
+**Divyanshi Srivastava**  
 B.Tech Final Year Project | Feroze Gandhi Institute of Engineering & Technology  
-Email: [vinaypatel0039@gmail.com]  
-LinkedIn: [(https://www.linkedin.com/in/iamvinay1/)]  
+Email: [divyanshisrivastava161101@gmail.com]  
+LinkedIn: [(https://www.linkedin.com/in/divyanshi-srivastava-161145252/)]  
 
 ---
 
